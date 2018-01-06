@@ -1,3 +1,12 @@
+## Version 1.2 (January 5, 2018) ##
+
+* NPM/Yarn publish
+* Section Finder/Better pingURl
+* Adds autocompleteContainingElementm, highlightFields, noResultsMessage options
+* Config namespace changed to `swiftype-config-autocomplete` 
+* make widget container class name configurable
+* Update Ajax call for jQuery 3
+
 ## Version 1.1 (December 3, 2012) ##
 
 * Make disableAutocomplete option configurable as a function.
